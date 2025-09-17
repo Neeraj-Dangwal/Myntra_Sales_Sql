@@ -1,0 +1,17 @@
+
+1. Show all brands available in the dataset.
+2. Show the first 10 products with their brand name and price.
+3. Find the total number of products for each brand.
+4. List all products from 'Levis' that have a discount greater than 40%.
+5. Find the top 5 most expensive products (after discount).
+6. Calculate the average price of products for each brand.
+7. Find the highest discount percentage for each brand.
+8. Find all products priced below the average product price.
+9. Find the brand(s) with the maximum number of products.
+10. Rank products within each brand based on ratings.
+11. Find the top 3 most-rated products (by number_of_ratings) in each brand.
+12. Find the best-selling product (highest number_of_ratings) per brand.
+13. Find the average discount across all products and list brands with higher-than-average discounts.
+14. Calculate the total revenue per brand (price × number_of_ratings as a proxy for sales).
+15. Find the percentage of products across all brands that have a rating above 4.
+16. Find the brand with the highest-rated product overall.
